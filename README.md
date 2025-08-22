@@ -49,4 +49,8 @@ unzip -p app/migrations/intervenciones.sql.zip | mysql -h 127.0.0.1 -u root -p i
 ### Web user login 
 admin / 1234  
 
+
+### SQL SCHEMA
+![Database Schema](app/migrations/intervenciones.schema.png)
+
  
