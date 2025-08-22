@@ -53,4 +53,7 @@ admin / 1234
 ### SQL SCHEMA
 ![Database Schema](app/migrations/intervenciones.schema.png)
 
+ ### SCREENSHOT 
+![SCREENSHOT](app/webroot/img/screenshot.png)
+
  
